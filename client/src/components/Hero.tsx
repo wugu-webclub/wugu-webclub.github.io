@@ -1,7 +1,7 @@
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import { Mail, Sparkles } from "lucide-react";
-import avatarImg from "@assets/generated_images/Anime_otaku_avatar_f43d1f1c.png";
+import avatarImg from "@assets/generated_images/Gemini_Generated_Image_dzuqfndzuqfndzuq.png";
 import starImg from "@assets/generated_images/Kawaii_star_decoration_50642aad.png";
 import sparkleImg from "@assets/generated_images/Anime_sparkle_decoration_ff819976.png";
 
