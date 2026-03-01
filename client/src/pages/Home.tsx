@@ -38,7 +38,7 @@ export default function Home() {
       <Navigation activeSection={activeSection} onSectionChange={scrollToSection} />
       
       <Hero 
-        name="蘇子權" 
+        name="蘇子權老師" 
         introduction="我是一個開心的動漫宅" 
         email="example@example.com"
       />
@@ -135,7 +135,7 @@ export default function Home() {
       <footer className="bg-card border-t border-card-border mt-20">
         <div className="max-w-7xl mx-auto px-4 py-8 text-center">
           <p className="text-muted-foreground">
-            © 2024 蘇子權 的動漫部落格 | 用 ❤️ 和 React 打造
+            © 2024 蘇子權老師 的動漫部落格 | 用 ❤️ 和 React 打造
           </p>
         </div>
       </footer>
