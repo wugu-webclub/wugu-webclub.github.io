@@ -1,6 +1,15 @@
 {
   "diaries": [
     {
+      "title": "測試新的文章功能",
+      "date": "2026-03-01",
+      "tags": [
+        "日常紀錄"
+      ],
+      "content": "今天我學習了使用 GitHub CodeSpaces 來編輯我的部落格文章，這是一個非常方便的工具，可以直接在瀏覽器中編輯和預覽我的內容。\n",
+      "slug": "2026-03-01-test"
+    },
+    {
       "title": "今天看了超棒的動漫",
       "date": "2024-01-15",
       "tags": [
@@ -45,6 +54,12 @@
       "category": "程式設計",
       "content": "## useState 和 useEffect\n\n`useState` 和 `useEffect` 是最常用的 Hooks。\n\n- **useState** 用於狀態管理\n- **useEffect** 用於副作用處理\n\n記得 `useEffect` 的依賴陣列要正確設置！\n",
       "slug": "react-hooks"
+    },
+    {
+      "title": "測試筆記",
+      "category": "前端網站",
+      "content": "1. 測試新的文章功能\n2. 測試新的文章功能\n3. 測試新的文章功能\n4. 測試新的文章功能\n",
+      "slug": "test"
     }
   ],
   "gallery": [
