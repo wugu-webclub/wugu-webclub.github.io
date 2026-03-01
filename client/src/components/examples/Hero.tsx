@@ -5,7 +5,7 @@ export default function HeroExample() {
     <Hero 
       name="蘇子權老師" 
       introduction="我是一個開心的動漫宅" 
-      email="example@example.com"
+      email="index20010928@apps.ntpc.edu.tw"
     />
   );
 }

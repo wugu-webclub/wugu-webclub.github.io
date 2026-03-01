@@ -40,7 +40,7 @@ export default function Home() {
       <Hero 
         name="蘇子權老師" 
         introduction="我是一個開心的動漫宅" 
-        email="example@example.com"
+        email="index20010928@apps.ntpc.edu.tw"
       />
 
       <main className="max-w-7xl mx-auto px-4 py-12 space-y-20">
