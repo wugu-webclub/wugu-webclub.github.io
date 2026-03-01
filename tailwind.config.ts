@@ -103,6 +103,21 @@ export default {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+      typography: {
+        DEFAULT: {
+          css: {
+            "code::before": { content: "none" },
+            "code::after": { content: "none" },
+            code: {
+              backgroundColor: "hsl(var(--muted))",
+              padding: "0.125rem 0.375rem",
+              borderRadius: "0.25rem",
+              fontSize: "0.875em",
+              fontFamily: "var(--font-mono)",
+            },
+          },
+        },
+      },
     },
   },
   plugins: [require("tailwindcss-animate"), require("@tailwindcss/typography")],

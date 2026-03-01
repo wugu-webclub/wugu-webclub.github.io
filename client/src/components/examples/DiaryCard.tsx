@@ -11,7 +11,6 @@ export default function DiaryCardExample() {
           date: new Date(),
           tags: ['動漫', '心得']
         }}
-        onDelete={(id) => console.log('Delete diary:', id)}
       />
     </div>
   );

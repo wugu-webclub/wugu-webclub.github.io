@@ -1,0 +1,14 @@
+# 圖畫清單：使用相對路徑，點列式
+items:
+  - path: https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400&h=400&fit=crop
+    title: 角色設計稿
+    description: 我最喜歡的角色設計練習
+  - path: https://images.unsplash.com/photo-1613376023733-0a73315d9b06?w=400&h=400&fit=crop
+    title: 場景插畫
+    description: 夢幻的動漫場景繪製
+  - path: https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&h=400&fit=crop
+    title: 色彩練習
+    description: 嘗試不同的配色方案
+  - path: https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=400&h=400&fit=crop
+    title: 動態姿勢
+    description: 動作場景的繪製練習
