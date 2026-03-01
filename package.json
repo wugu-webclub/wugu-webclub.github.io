@@ -4,8 +4,8 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "dev": "pnpm run content:generate && vite",
-    "build": "pnpm run content:generate && vite build",
+    "dev": "npm run content:generate && vite",
+    "build": "npm run content:generate && vite build",
     "preview": "vite preview",
     "check": "tsc",
     "content:generate": "npx tsx scripts/generate-content.ts"
