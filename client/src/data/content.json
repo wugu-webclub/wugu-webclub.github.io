@@ -1,0 +1,92 @@
+{
+  "diaries": [
+    {
+      "title": "今天看了超棒的動漫",
+      "date": "2024-01-15",
+      "tags": [
+        "動漫",
+        "心得"
+      ],
+      "content": "今天終於看完了期待已久的動漫系列，故事情節真的太精彩了！\n\n角色發展也很棒，每個人都有自己的成長軌跡。特別是主角的成長過程，從一開始的青澀到後來的成熟，這個轉變讓我很感動。\n",
+      "slug": "2024-01-15-anime"
+    },
+    {
+      "title": "開始學習新的繪畫技巧",
+      "date": "2024-01-10",
+      "tags": [
+        "繪畫",
+        "學習"
+      ],
+      "content": "今天在網路上找到了一個很棒的繪畫教學，學到了很多關於**人物比例**和**陰影**的技巧。\n\n打算這週末就來練習看看！\n",
+      "slug": "2024-01-10-drawing"
+    }
+  ],
+  "notes": [
+    {
+      "title": "待看動漫清單",
+      "category": "動漫",
+      "content": "1. 進擊的巨人最終季\n2. 鬼滅之刃新篇章\n3. 咒術迴戰第二季\n4. SPY×FAMILY\n",
+      "slug": "anime-list"
+    },
+    {
+      "title": "畫圖技巧整理",
+      "category": "繪畫",
+      "content": "## 人物比例\n\n- 頭部約為全身的 1/7\n- 眼睛位置在頭部中央偏上\n- 注意光影的方向性，保持一致\n",
+      "slug": "drawing-tips"
+    },
+    {
+      "title": "日文學習重點",
+      "category": "語言學習",
+      "content": "今天學習了「は」和「が」的差別：\n\n- **は** 用於主題標記\n- **が** 用於主語標記\n\n在疑問句中通常使用「が」。\n",
+      "slug": "japanese-learning"
+    },
+    {
+      "title": "React Hooks 學習筆記",
+      "category": "程式設計",
+      "content": "## useState 和 useEffect\n\n`useState` 和 `useEffect` 是最常用的 Hooks。\n\n- **useState** 用於狀態管理\n- **useEffect** 用於副作用處理\n\n記得 `useEffect` 的依賴陣列要正確設置！\n",
+      "slug": "react-hooks"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400&h=400&fit=crop",
+      "title": "角色設計稿",
+      "description": "我最喜歡的角色設計練習"
+    },
+    {
+      "path": "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?w=400&h=400&fit=crop",
+      "title": "場景插畫",
+      "description": "夢幻的動漫場景繪製"
+    },
+    {
+      "path": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&h=400&fit=crop",
+      "title": "色彩練習",
+      "description": "嘗試不同的配色方案"
+    },
+    {
+      "path": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=400&h=400&fit=crop",
+      "title": "動態姿勢",
+      "description": "動作場景的繪製練習"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "title": "我最喜歡的動漫 OP",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1608889335941-32ac5f2041b9?w=600&h=400&fit=crop",
+      "description": "超燃的開場曲合集！"
+    },
+    {
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "title": "繪畫教學：眼睛畫法",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&h=400&fit=crop",
+      "description": "動漫風格眼睛的繪製技巧"
+    },
+    {
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "title": "我的作畫過程分享",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=600&h=400&fit=crop",
+      "description": "從草稿到完成的全過程"
+    }
+  ]
+}

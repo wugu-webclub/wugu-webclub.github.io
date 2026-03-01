@@ -1,0 +1,14 @@
+# 影片清單：可使用相對路徑或 URL，點列式
+items:
+  - url: https://www.youtube.com/embed/dQw4w9WgXcQ
+    title: 我最喜歡的動漫 OP
+    thumbnailUrl: https://images.unsplash.com/photo-1608889335941-32ac5f2041b9?w=600&h=400&fit=crop
+    description: 超燃的開場曲合集！
+  - url: https://www.youtube.com/embed/dQw4w9WgXcQ
+    title: 繪畫教學：眼睛畫法
+    thumbnailUrl: https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&h=400&fit=crop
+    description: 動漫風格眼睛的繪製技巧
+  - url: https://www.youtube.com/embed/dQw4w9WgXcQ
+    title: 我的作畫過程分享
+    thumbnailUrl: https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=600&h=400&fit=crop
+    description: 從草稿到完成的全過程
